@@ -45,7 +45,7 @@ body {
 
 @media screen and (min-width: 1440px) {
     .cabecalho {
-        background-color: #1D232A;
+        background-color: #00f;
         display: grid;
         column-gap: 32px;
         grid-template-columns: 1fr auto;
