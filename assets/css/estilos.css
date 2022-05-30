@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: pink;
+    background-color: #1D232A;
     font-family: 'Open Sans', 'icones', sans-serif;
     color: #FFFFFF;
 }
@@ -45,7 +45,7 @@ body {
 
 @media screen and (min-width: 1440px) {
     .cabecalho {
-        background-color: #00f;
+        background-color: #1D232A;
         display: grid;
         column-gap: 32px;
         grid-template-columns: 1fr auto;
